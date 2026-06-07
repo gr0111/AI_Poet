@@ -4,9 +4,9 @@
 import streamlit as st
 from langchain_openai import ChatOpenAI
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
-load_dotenv()
+#load_dotenv()
 
 chat_model = ChatOpenAI()
 
